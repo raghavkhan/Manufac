@@ -1,0 +1,12 @@
+.chart1 {
+    color: black;
+    background-color:cadetblue;
+    height: 50vh; 
+    width: 100vw;
+}
+ @media 
+    (min-width: 800px) and (max-width:1400px){
+        .chart1{
+            background-color: rgb(11, 168, 19);
+        }
+    } 
